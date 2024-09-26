@@ -1,0 +1,36 @@
+¿Qué técnica se utiliza para enseñar a una máquina mediante ejemplos?
+Machine Learning
+Quantum Computing
+Blockchain
+Data Mining
+1
+¿Qué es el "aprendizaje supervisado" en el contexto del aprendizaje automático?
+Un tipo de aprendizaje automático sin necesidad de datos etiquetados
+Un tipo de aprendizaje automático donde el modelo se entrena con datos etiquetados
+Un método para mejorar la eficiencia energética de los dispositivos
+Un algoritmo que permite supervisar la base de conocimiento 
+2
+¿Qué es el aprendizaje profundo (Deep Learning)?
+Un tipo de inteligencia artificial que se basa en algoritmos genéticos.
+Un método de aprendizaje automático que utiliza redes neuronales profundas para procesar datos y tomar decisiones.
+Un sistema de inteligencia artificial que imita el comportamiento de los insectos.
+Un enfoque de programación que se centra en la creación de algoritmos de búsqueda.
+2
+¿Cuál de las siguientes afirmaciones sobre los chatbots es correcta?
+Los chatbots pueden reemplazar completamente a los humanos en todas las interacciones de servicio al cliente.
+Los chatbots no pueden aprender de las interacciones con los usuarios.
+Los chatbots utilizan procesamiento de lenguaje natural (NLP) para entender y responder a las consultas de los usuarios.
+Los chatbots solo pueden responder a preguntas predefinidas y no pueden manejar consultas complejas.
+3
+¿Cuál es una aplicación común de la inteligencia artificial en la medicina?
+Diagnosticar enfermedades sin necesidad de datos históricos.
+Realizar cirugías complejas sin supervisión humana.
+Crear medicamentos sin necesidad de pruebas clínicas.
+Analizar imágenes médicas para detectar anomalías y enfermedades.
+4
+¿Qué es el procesamiento de lenguaje natural (NLP)?
+Una técnica de inteligencia artificial que permite a las máquinas entender y generar lenguaje humano.
+Un método para programar robots industriales.
+Un sistema de inteligencia artificial que se utiliza exclusivamente en la agricultura.
+Un enfoque de aprendizaje automático que se centra en la predicción del clima.
+1
